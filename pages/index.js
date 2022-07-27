@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
+      <main className='ml-64'>
         <h1>Complaint Management App Under Construction</h1> 
       </main>
     </div>
